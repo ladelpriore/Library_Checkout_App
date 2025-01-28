@@ -1,4 +1,4 @@
-# Block 30 Career Simulation Book Buddy
+# Block 30, Unit 3, State Management, Career Simulation: Book Buddy
 Build the front end of the online public library service called BookBuddy with the API documentation. Allow user to login and check out books using a CRUD interface and user authentication via JSON Web Tokens (JWT).
 
 ## Requirements
