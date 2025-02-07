@@ -1,4 +1,4 @@
-# Library Checkout App, API, and Authentication 
+## Library Checkout App, API, and Authentication 
 Build the front end of the online public library service with the API provided documentation. Allow user to view catalogue, register/login and check out books (viz-a-viz CRUD interface, user authentication, via JSON Web Tokens).
 
 (React, API, authentication, JSON web tokens)
